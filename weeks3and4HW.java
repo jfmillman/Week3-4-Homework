@@ -47,7 +47,7 @@ public class weeks3and4HW {
 	//#4
 	//array[0]
 	
-	//#5 Plesae check that this is what they wanted me to do
+	//#5 
 	int[] nameLengths = new int[names.length];
 	for (int i = 0; i < names.length; i++) {
 		nameLengths[i] = names[i].length();
