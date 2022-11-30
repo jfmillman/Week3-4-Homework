@@ -122,8 +122,7 @@ public class weeks3and4HW {
 		}
 		
 	}
-	//Is this correct? I had a flag that it is not returning boolean result but its not here anymore
-	
+
 	
 	
 	//#13
